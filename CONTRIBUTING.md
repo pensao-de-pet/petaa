@@ -1,10 +1,10 @@
 # Guia de contribuição
 
-Valeu por colaborar com o petaa! Estas regras existem para que muita gente consiga mexer no mesmo projeto sem se atrapalhar.
+Estas regras existem para que muita gente consiga mexer no mesmo projeto sem se atrapalhar.
 
 ## Regra de ouro
 
-**Ninguém faz commit direto na `main`.** Todo trabalho passa por uma branch e uma Pull Request (PR).
+**NINGUÉM faz commit direto na `main`.** Todo trabalho passa por uma branch e uma Pull Request (PR).
 
 ## Fluxo de trabalho
 
