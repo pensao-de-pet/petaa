@@ -25,8 +25,6 @@ O projeto evolui conforme as disciplinas que vamos cursando.
 
 ## Tecnologias
 
-A definir pelo grupo. Atualize esta seção quando as escolhas forem fechadas.
-
 - Linguagem principal: _a definir_
 - Banco de dados: _a definir_
 
@@ -52,7 +50,7 @@ Leia o [CONTRIBUTING.md](CONTRIBUTING.md) antes de abrir sua primeira Pull Reque
 
 | Nome | GitHub | Squad |
 |------|--------|-------|
-| _preencher_ | @usuario | _preencher_ |
+| Hector Belchior | @hectorbelchior | a definir |
 
 ## Licença
 
