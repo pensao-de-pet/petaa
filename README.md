@@ -51,6 +51,8 @@ Leia o [CONTRIBUTING.md](CONTRIBUTING.md) antes de abrir sua primeira Pull Reque
 | Nome | GitHub | Squad |
 |------|--------|-------|
 | Hector Belchior | @hectorbelchior | a definir |
+| Geraldo Cândido | @Ggerado01 | a definir |
+| Raul Silva Vieira | @raulvieira19 | a definir |
 
 ## Licença
 
